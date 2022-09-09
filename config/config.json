@@ -1,0 +1,19 @@
+{
+
+  "Prefix": "?",
+
+  "Users": {
+    "OWNERS": ["849413565487382578", "554029264492691476", "924824138173022270"]
+  },
+
+  "Handlers": {
+    "MONGO": "",
+    "GUILD_ID": "949620901291368458"
+  },
+  
+  "Client": {
+    "TOKEN": "MTAxNTI5NTE5MzY1MTYxNzkxNA.GhSDJ4.ks3wVsI1-SZrpbVYORdIee9Jn7-Xe4ou6nkHVw",
+    "ID": "1015295193651617914"
+  }
+  
+}
